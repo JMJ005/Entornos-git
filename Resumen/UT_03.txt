@@ -1,1 +1,2 @@
 Una de las ultimas fases del ciclo de vida antes de entregar un programa para su explotación, es la fase pruebas
+Una de las ultimas fases del ciclo de vida antes de entregar un programa para su explotación, es la fase pruebas
