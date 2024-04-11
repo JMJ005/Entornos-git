@@ -1,0 +1,1 @@
+La refectorización consiste en una transformacion al software preservando su comportamiento
